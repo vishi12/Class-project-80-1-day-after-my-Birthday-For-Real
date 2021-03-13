@@ -1,0 +1,31 @@
+h3{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#submit_button{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+#sort_button{
+    margin-top:20px;
+    margin-bottom:20px;
+    display:none;
+}
+#display_name_with_comma{
+    text-align:center;
+    border:3px;
+    border-radius:10px;
+    background-color:red;
+    font-size:30px;
+    width:50%;
+    padding:10px;
+}
+#display_name_without_comma{
+    text-align:center;
+    border:3px;
+    border-radius:10px;
+    background-color:aqua;
+    font-size:30px;
+    width:50%;
+    padding:10px;
+}
